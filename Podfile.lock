@@ -1,0 +1,65 @@
+PODS:
+  - Alamofire (4.7.3)
+  - AlamofireMapper (1.0.0):
+    - Alamofire (~> 4.1)
+  - AlamofireObjectMapper (5.2.0):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - GoogleMaps (3.5.0):
+    - GoogleMaps/Maps (= 3.5.0)
+  - GoogleMaps/Base (3.5.0)
+  - GoogleMaps/Maps (3.5.0):
+    - GoogleMaps/Base
+  - GooglePlaces (3.5.0):
+    - GoogleMaps/Base (= 3.5.0)
+  - Kingfisher (5.9.0):
+    - Kingfisher/Core (= 5.9.0)
+  - Kingfisher/Core (5.9.0)
+  - NVActivityIndicatorView (4.4.0):
+    - NVActivityIndicatorView/Presenter (= 4.4.0)
+  - NVActivityIndicatorView/Presenter (4.4.0)
+  - ObjectMapper (3.4.1)
+  - SkyFloatingLabelTextField (3.6.0)
+  - SwiftMessages (6.0.1):
+    - SwiftMessages/App (= 6.0.1)
+  - SwiftMessages/App (6.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireMapper
+  - AlamofireObjectMapper
+  - GoogleMaps
+  - GooglePlaces
+  - Kingfisher
+  - NVActivityIndicatorView
+  - SkyFloatingLabelTextField
+  - SwiftMessages
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireMapper
+    - AlamofireObjectMapper
+    - GoogleMaps
+    - GooglePlaces
+    - Kingfisher
+    - NVActivityIndicatorView
+    - ObjectMapper
+    - SkyFloatingLabelTextField
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  AlamofireMapper: bdcd94eb53ab63ec9a12e4685bba73e3d0072f36
+  AlamofireObjectMapper: 92b6ce2423a9d159e686f6a1d514a009bf903ddc
+  GoogleMaps: 32ca02de09de357a10ac773f2c70f1986751392d
+  GooglePlaces: be6f19fe8aa6ff0b5bcccfa1b8805cc977ea1450
+  Kingfisher: ff98240aebb7302bdc4f1ecd701761030ce18b16
+  NVActivityIndicatorView: ec7440a57af2450319d3a4181cca7da6fc127064
+  ObjectMapper: 5311bd50ca732930959e7ca1a2de43ab823a5ced
+  SkyFloatingLabelTextField: 38164979b79512f9ff9288ad8acfc4bbf5d843e3
+  SwiftMessages: 42ed7b6e1f2f1ead9ee667dc61a0ae87e4f49570
+
+PODFILE CHECKSUM: 0fcaac8e74d995da3d65e355718880375086f1b5
+
+COCOAPODS: 1.5.2
